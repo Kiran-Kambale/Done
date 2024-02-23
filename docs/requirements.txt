@@ -1,7 +1,7 @@
 # requirements.txt
 
 # Sphinx and its dependencies
-Sphinx==7.2.6
-sphinx_rtd_theme==1.0.0
+#Sphinx==7.2.6
+sphinx_rtd_theme==2.0.0
 
 # Add any other dependencies specific to your project
